@@ -13,10 +13,7 @@ chmod +x calculadora.sh   # (pressione Enter)
 ./calculadora.sh          # (pressione Enter)
 ```
 
-🟢 Instruções de uso
-
-Com a calculadora aberta:
-🟢 Instruções de uso da calculadora:
+## 🟢 Instruções de uso da calculadora:
 
 Digite o primeiro valor numérico desejado
 
