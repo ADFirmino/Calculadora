@@ -27,17 +27,17 @@ chmod +x calculadora.sh  #(pressione Enter)
 
 ## ➕ Operadores Disponíveis:
 
-(+) Soma                  #(Python + sh.)
+(+) Soma                  ->(Python + sh.)
 
-(-) Subtração             #(Python + sh.)
+(-) Subtração             ->(Python + sh.)
 
-(*) Multiplicação         #(Python + sh.)
+(*) Multiplicação         ->(Python + sh.)
 
-(/) Divisão               #(Python + sh.)
+(/) Divisão               ->(Python + sh.)
 
-(**) Exponenciação        #(Python)
+(**) Exponenciação        ->(Python)
 
-(%) Resto da divisão      #(Python)
+(%) Resto da divisão      ->(Python)
 
 ## 🐍 Explicação do código Python (calculadora.py)
 
