@@ -19,21 +19,25 @@ chmod +x calculadora.sh  #(pressione Enter)
 
 ## 🟢 Instruções de Uso da Calculadora:
 
-Digite o primeiro número.
+1. Digite o primeiro número.
 
-Digite o segundo número.
+2. Digite o segundo número.
 
-Digite o operador desejado: +, -, *, /.
+3. Digite o operador desejado: +, -, *, /.
 
 ## ➕ Operadores Disponíveis:
 
-+ Soma
+(+) Soma                  #(Python + sh.)
 
-- Subtração
+(-) Subtração             #(Python + sh.)
 
-* Multiplicação
+(*) Multiplicação         #(Python + sh.)
 
-/ Divisão
+(/) Divisão               #(Python + sh.)
+
+(**) Exponenciação        #(Python)
+
+(%) Resto da divisão      #(Python)
 
 ## 🐍 Explicação do código Python (calculadora.py)
 
