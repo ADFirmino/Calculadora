@@ -1,10 +1,10 @@
 # Calculadora
 Lógica de programação para com calculadora via Ubuntu
+
 # Calculadora Virtual 🔢
 
 Uma calculadora simples feita em Shell Script e Python, com entrada de dois números e um operador.
 
----
 
 ## 🟢 Como Executar o Script `calculadora.sh`
 
@@ -17,13 +17,10 @@ chmod +x calculadora.sh  #(pressione Enter)
 ./calculadora.sh	 #(pressione Enter)
 ```
 
-<<<<<<< HEAD
 O primeiro comando dá permissão de execução ao script.
 O segundo comando executa o script no terminal.
 
 ## 🟢 Instruções de Uso da Calculadora:
-=======
-## 🟢 Instruções de uso da calculadora:
 
 Digite o primeiro número.
 
@@ -40,13 +37,12 @@ Digite o operador desejado: +, -, *, /.
 * Multiplicação
 
 / Divisão
-<<<<<<< HEAD
 
 ## 🐍 Explicação do código Python (calculadora.py)
 
 O código em Python é responsável por realizar os cálculos com base nos valores fornecidos pelo usuário.
 
-Estrutura Geral:
+## 📚 Estrutura Geral:
 
 ```bash
 nome = input('Como podemos te chamar? 🤔 ')
@@ -74,12 +70,12 @@ while True:
     print('Operador inválido')
 ```
 
-O que ele faz:
+## ⁉ O que o código faz:
 
-Recebe três argumentos: número 1, número 2 e operador.
+- Recebe três argumentos: número 1, número 2 e operador.
 
-Converte os valores em números reais (float).
+- Converte os valores em números reais (float).
 
-Verifica qual operação realizar com base no operador fornecido.
+- Verifica qual operação realizar com base no operador fornecido.
 
-Imprime o resultado diretamente no terminal.
+- Imprime o resultado diretamente no terminal.
