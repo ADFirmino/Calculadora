@@ -24,7 +24,6 @@ O segundo comando executa o script no terminal.
 ## 🟢 Instruções de Uso da Calculadora:
 =======
 ## 🟢 Instruções de uso da calculadora:
->>>>>>> f83b8b15553ce69bed2e207fe11dc03ecdd385dc
 
 Digite o primeiro número.
 
@@ -84,5 +83,3 @@ Converte os valores em números reais (float).
 Verifica qual operação realizar com base no operador fornecido.
 
 Imprime o resultado diretamente no terminal.
-=======
->>>>>>> f83b8b15553ce69bed2e207fe11dc03ecdd385dc
