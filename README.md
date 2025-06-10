@@ -17,8 +17,8 @@ chmod +x calculadora.sh  #(pressione Enter)
 ./calculadora.sh	 #(pressione Enter)
 ```
 
-O primeiro comando dá permissão de execução ao script.
-O segundo comando executa o script no terminal.
+- O primeiro comando dá permissão de execução ao script.
+- O segundo comando executa o script no terminal.
 
 ## 🟢 Instruções de Uso da Calculadora:
 
