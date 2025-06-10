@@ -1,6 +1,3 @@
-# Calculadora
-Lógica de programação para com calculadora via Ubuntu
-
 # Calculadora Virtual 🔢
 
 Uma calculadora simples feita em Shell Script e Python, com entrada de dois números e um operador.
